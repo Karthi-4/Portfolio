@@ -1,7 +1,7 @@
 export default function Contact(){
     const config = {
         email : 'karthirvmhss@gmail.com',
-        phone : '89596768669',
+        phone : '9943854314',
     }
 
 
